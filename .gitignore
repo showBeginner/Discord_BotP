@@ -1,6 +1,7 @@
 
-#bot token
-config.json
+#bot
+/Warframe_Robot/config.json
+/Warframe_Robot/node_modules
 
 # Logs
 logs
